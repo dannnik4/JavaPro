@@ -1,4 +1,4 @@
-package com.hillel.Homework01;
+package com.hillel.Homework01.ArrayList;
 
 public class MyArrayList implements MyList {
 

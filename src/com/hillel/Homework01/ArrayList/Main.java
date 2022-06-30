@@ -1,4 +1,4 @@
-package com.hillel.Homework01;
+package com.hillel.Homework01.ArrayList;
 
 import java.io.BufferedReader;
 import java.io.IOException;
