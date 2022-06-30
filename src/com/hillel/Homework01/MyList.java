@@ -1,4 +1,4 @@
-package com.hillel.lesson02;
+package com.hillel.Homework01;
 
 public interface MyList {
 
