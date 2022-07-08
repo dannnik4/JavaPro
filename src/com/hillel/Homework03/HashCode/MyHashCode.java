@@ -17,8 +17,8 @@ public class MyHashCode {
     public String toString() {
         return "City{" +
                 "name=" + name +
-                ", square='" + square + "sq. km" + '\'' +
-                ", population='" + population + " K" + '\'' +
+                ", square='" + square + '\'' +
+                ", population='" + population + '\'' +
                 '}';
     }
 
